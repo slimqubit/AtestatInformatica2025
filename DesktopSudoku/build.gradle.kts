@@ -27,7 +27,7 @@ tasks.withType<JavaCompile> {
 
 application {
     mainModule.set("com.example.desktopsudoku")
-    mainClass.set("com.example.desktopsudoku.HelloApplication")
+    mainClass.set("com.example.desktopsudoku.Main")
 }
 
 javafx {
