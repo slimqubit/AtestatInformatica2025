@@ -3,7 +3,7 @@
   <dontWrapJar>true</dontWrapJar>
   <headerType>gui</headerType>
   <jar>DesktopSudoku.main.jar</jar>
-  <outfile>C:\temp\!Atestat\DesktopSudoku\out\artifacts\DesktopSudoku_main_jar\DesktopSudoku.exe</outfile>
+  <outfile>C:\LocalREPO\AtestatInformatica2025\DesktopSudoku\out\artifacts\DesktopSudoku_main_jar\DesktopSudoku.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -13,7 +13,7 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>C:\temp\!Atestat\DesktopSudoku\launch4j\AppSudoku.ico</icon>
+  <icon>C:\LocalREPO\AtestatInformatica2025\DesktopSudoku\launch4j\AppSudoku.ico</icon>
   <jre>
     <path>%JAVA_HOME%;%PATH%</path>
     <requiresJdk>false</requiresJdk>
